@@ -4,6 +4,7 @@ import Navigasi from "./component/Navigasi";
 import Intro from "./component/Intro";
 import Avenger from "./component/Avenger";
 import Disny from "./component/Disny";
+import Footer from './component/Footer';
 // import Footer from "./component/Footer";
 // import { Col, Container, Row } from 'react-bootstrap';
 function App() {
@@ -26,6 +27,11 @@ function App() {
         <Disny/>
       </div>
       {/* ebd disny */}
+      {/* footer  */}
+      <div className='footer'>
+        <Footer/>
+      </div>
+      {/* end footer */}
     </div>
   );
 }

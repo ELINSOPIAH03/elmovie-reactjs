@@ -5,10 +5,10 @@ const Navigasi = () => {
     return (
         <Navbar bg="light">
             <Container>
-                <Navbar.Brand>ELLFILM</Navbar.Brand>
+                <Navbar.Brand href="/">ELLFILM</Navbar.Brand>
                 <Nav>
-                    <Nav.Link>AVENGER</Nav.Link>
-                    <Nav.Link>DESNY</Nav.Link>
+                    <Nav.Link href="#avenger">AVENGER</Nav.Link>
+                    <Nav.Link href="#disney">DISNY</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>

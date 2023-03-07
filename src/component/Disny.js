@@ -9,7 +9,7 @@ const Disny = () => {
         <div>
             <Container>
                 <br/>
-                    <h3 className='text-white text-center rekom'>REKOMENDASI MOVIE DISNEY</h3>
+                    <h3 className='text-white text-center rekom' id='disney'>REKOMENDASI MOVIE DISNEY</h3>
                 <Row>
                     <Col md={4} className='imageMovie'>
                         <Card className="text-white bg-dark imageMovie text-center border-0 mt-4" style={{ background: 'transparent' }}>
