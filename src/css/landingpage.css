@@ -1,0 +1,39 @@
+.mybg{
+    height: 100vh;
+    background: url("../assets/img/bg/2.jpeg");
+    background-size: cover;
+}
+.intro{
+    height: 400px;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+.selogan{
+    font-size: 3rem;
+    font-weight: 800;
+    letter-spacing: 3px;
+    text-shadow: 2px 1px 2px brown;
+    line-height: 1;
+}
+.avenger{
+    height: auto;
+    background: url("../assets/img/bg/1.png");
+    background-size: cover;
+}
+.imageMovie{
+    height: auto;
+    /* width: 200px; */
+}
+.image{
+    height: 500px;
+}
+.disney{
+    height: auto;
+    background: url("../assets/img/bg/dis.jpeg");
+    background-size: cover;
+}
+.rekom{
+    text-shadow: 2px 1px 2px rgb(0, 0, 0);
+    line-height: 1;
+}
