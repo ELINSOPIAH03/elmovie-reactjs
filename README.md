@@ -1,3 +1,8 @@
+# Web Rekomendasi Movie Sederhana Menggunakan ReactJs
+
+web ini masih banyak kekurangan dan ini merupakan hasil tutorial dari bang dea afrizal serial "Bikin WEBSITE FILM Pake REACT JS Bootstrap Untuk PEMULA"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
