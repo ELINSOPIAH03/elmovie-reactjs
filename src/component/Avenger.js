@@ -24,7 +24,7 @@ const Avenger = () => {
                     <Col md={4} className='imageMovie'>
                         <Card className="text-white bg-dark imageMovie text-center border-0 mt-4 " style={{ background: 'transparent'}}>
                             <Image src={Antmant} alt="Card image" className='image'/>
-                            <Card.Title className='m-1'>Thor Imortal</Card.Title>
+                            <Card.Title className='m-1'>Ant-Man Wasp</Card.Title>
                             <Card.Text className='m-0 p-0'>
                                 This is a wider card with supporting.
                             </Card.Text>
@@ -34,7 +34,7 @@ const Avenger = () => {
                     <Col md={4} className='imageMovie'>
                         <Card className="text-white bg-dark imageMovie text-center border-0 mt-4" style={{ background: 'transparent' }}>
                             <Image src={CAmerika} alt="Card image" className='image'/>
-                            <Card.Title className='m-1'>Thor Imortal</Card.Title>
+                            <Card.Title className='m-1'>Captain America</Card.Title>
                             <Card.Text className='m-0 p-0'>
                                 This is a wider card with supporting.
                             </Card.Text>
